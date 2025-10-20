@@ -44,7 +44,7 @@ The project focuses on:
 ## 📊 Visualizations
 
 ### 1. Movies vs TV Shows Distribution
-![Movies vs TV Shows](https://github.com/whoistausif/VOIS_AICTE_Oct2025_Major_Project_MOHAMMAD_TAUSIF/blob/main/Reports%20Netflix/Movies%20vs%20TV%20Shows%20Distribution.png)
+![Movies vs TV Shows](https://github.com/arshiyakhan1613/VOIS_AICTE_Oct2025_Major_Project_ARSHIYA_KHAN/blob/main/Movies%20vs%20TV%20Shows%20Distribution.png)
 
 ---
 
