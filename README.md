@@ -54,7 +54,7 @@ The project focuses on:
 ---
 
 ### 3. Top 10 Countries
-![Top Countries](https://github.com/whoistausif/VOIS_AICTE_Oct2025_Major_Project_MOHAMMAD_TAUSIF/blob/main/Reports%20Netflix/Top%2010%20Countries.png)
+![Top Countries](https://github.com/arshiyakhan1613/VOIS_AICTE_Oct2025_Major_Project_ARSHIYA_KHAN/blob/main/Top%2010%20Countries.png)
 
 ---
 
